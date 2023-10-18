@@ -5,7 +5,11 @@ This J2EE project is designed for user registration, login, profile management, 
 
 This project includes a user registration form to allow new users to create accounts. The registration form typically collects the following information:
 
-- Username
+- First Name
+- Last Name
 - Email address
 - Password
-- Additional fields as per your application's requirements
+- Phone Number
+- Date of Birth
+
+Users can fill in the required information and submit the form to create an account. The registration form includes validation checks to ensure data integrity and security.
