@@ -47,3 +47,49 @@ If you don't have an account yet, you can click on the "create an account" link 
 </div>
 </div>
 
+# User Profile Update
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; padding: 20px;">
+        <img src="user-profile/images/update-profile.png" alt="Update Profile" width="600">
+    </div>
+    <div style="flex: 2; padding: 20px;">
+        <h2>Update Profile</h2>
+
+ Users can update their profile details, apart from the password. The following information can typically be updated:
+
+        - First Name
+        - Last Name
+        - Email address
+        - Phone Number
+        - Date of Birth
+        - Additional details as per your application's requirements
+
+To update your profile, log in to your account and navigate to the profile management section. Make the necessary changes to your profile and save the updates.
+
+</div>
+</div>
+
+# User's Password Change
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; padding: 20px;">
+        <img src="user-profile/images/change-password.png" alt="Change Password" width="600">
+    </div>
+    <div style="flex: 2; padding: 20px;">
+        <h2>Change Password</h2>
+
+Users can change their password to enhance security. To change your password, follow these steps:
+
+        1. Log in to your account.
+        2. Navigate to the change password section.
+        3. Enter your new password.
+        4. Confirm your new password by re-entering it.
+        5. Click the "Change Password" button.
+
+Ensure that your new password and the confirmed password match before clicking the "Change Password" button. Passwords are typically case-sensitive.
+
+Changing your password regularly helps to keep your account secure.
+
+</div>
+</div>
