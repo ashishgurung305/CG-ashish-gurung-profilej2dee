@@ -6,7 +6,7 @@ This J2EE project is designed for user registration, login, profile management, 
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding: 20px;">
-        <img src="user-profile/images/register.png" alt="Registration Form" width="400">
+        <img src="user-profile/images/register.png" alt="Registration Form" width="100">
     </div>
     <div style="flex: 2; padding: 20px;>
         <h2>Registration Form</h2>       
