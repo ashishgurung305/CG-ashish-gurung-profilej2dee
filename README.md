@@ -108,7 +108,7 @@ Changing your password regularly helps to keep your account secure.
 
 ## Conclusion
 
-Thank you for exploring our user registration and profile management project. We hope this application proves to be a valuable addition to your web development endeavors. With features such as user registration, login, profile management, and password change, we aim to provide a secure and user-friendly experience.
+Thank you for exploring my user profile management project. I hope this application proves to be a valuable addition to your web development endeavors. With features such as user registration, login, profile management, and password change, I aim to provide a secure and user-friendly experience.
 
 Feel free to get involved, contribute, or use this project as a starting point for your own web applications. If you have questions, suggestions, or run into any issues, don't hesitate to reach out.
 
