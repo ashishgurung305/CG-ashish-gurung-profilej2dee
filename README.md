@@ -11,7 +11,7 @@ This J2EE project is designed for user registration, login, profile management, 
     <div style="flex: 2; padding: 20px;">
         <h2>Registration Form</h2>
 
-        This project includes a user registration form to allow new users to create accounts. The registration form typically collects the following information:
+This project includes a user registration form to allow new users to create accounts. The registration form typically collects the following information:
 
 - First Name
 - Last Name
