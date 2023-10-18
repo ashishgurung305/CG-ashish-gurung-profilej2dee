@@ -28,12 +28,12 @@ The registration form includes validation checks to ensure data integrity and se
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding: 20px;">
-        <img src="user-profile/images/login.png" alt="Login Form" width="300">
+        <img src="user-profile/images/login.png" alt="Login Form" width="600">
     </div>
     <div style="flex: 2; padding: 20px;">
         <h2>Login Form</h2>
 
-        This project includes a user login form for registered users to access their accounts. The login form requires the following information:
+This project includes a user login form for registered users to access their accounts. The login form requires the following information:
 
         - Email address
         - Password
