@@ -93,3 +93,20 @@ Changing your password regularly helps to keep your account secure.
 
 </div>
 </div>
+
+## Project Overview
+
+This J2EE web application is designed for user registration, login, profile management, and password updates. It utilizes MySQL as the backend database to securely store and retrieve user data. Users can register, log in, update their profile details, and change their passwords, providing a comprehensive web application for managing user accounts.
+
+**Key Features:**
+
+- User Registration: Allows users to create an account with essential information.
+- User Login: Provides secure authentication for registered users.
+- Profile Management: Enables users to update their profile details.
+- Password Change: Allows users to change their passwords securely.
+
+**Get Started:**
+
+To get started with this project, simply clone the repository and follow the setup instructions in the documentation.
+
+For project inquiries or support, please contact us at [ashishgurung1996@gmail.com](mailto:ashishgurung1996@gmail.com).
