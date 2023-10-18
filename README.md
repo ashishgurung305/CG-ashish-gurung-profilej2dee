@@ -109,4 +109,4 @@ This J2EE web application is designed for user registration, login, profile mana
 
 To get started with this project, simply clone the repository and follow the setup instructions in the documentation.
 
-For project inquiries or support, please contact us at [ashishgurung1996@gmail.com](mailto:ashishgurung1996@gmail.com).
+For project inquiries or support, please contact at [ashishgurung1996@gmail.com](mailto:ashishgurung1996@gmail.com).
