@@ -23,6 +23,7 @@ Users can fill in the required information and submit the form to create an acco
 The registration form includes validation checks to ensure data integrity and security.
 </div>
 </div>
+
 # User Registration and Profile Management
 
 <div style="display: flex; align-items: center;">
@@ -43,6 +44,6 @@ Users can log in by providing their registered email and password. If the user d
 
 If you don't have an account yet, you can click on the "create an account" link to access the features of this application.
 
-    </div>
+</div>
 </div>
 
