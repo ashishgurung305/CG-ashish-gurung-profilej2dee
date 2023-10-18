@@ -8,7 +8,7 @@ This J2EE project is designed for user registration, login, profile management, 
     <div style="flex: 1; padding: 20px;">
         <img src="user-profile/images/register.png" alt="Registration Form" width="100">
     </div>
-    <div style="flex: 2; padding: 20px;">
+    <div style="flex: 2; padding: 20px; width="100">
         <h2>Registration Form</h2>       
         This project includes a user registration form to allow new users to create accounts. The registration form typically collects the following information:
         
