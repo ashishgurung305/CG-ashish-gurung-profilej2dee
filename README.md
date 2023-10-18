@@ -3,6 +3,8 @@ This J2EE project is designed for user registration, login, profile management, 
 
 ## Registration Form
 
+![Registration Form](user-profile/images/register.png)
+
 This project includes a user registration form to allow new users to create accounts. The registration form typically collects the following information:
 
 - First Name
