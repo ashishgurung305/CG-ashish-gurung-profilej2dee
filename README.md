@@ -18,8 +18,8 @@ This J2EE project is designed for user registration, login, profile management, 
         - Password
         - Phone Number
         - Date of Birth        
-        Users can fill in the required information and submit the form to create an account. 
-        The registration form includes validation checks to ensure data integrity and security.
+Users can fill in the required information and submit the form to create an account. 
+The registration form includes validation checks to ensure data integrity and security.
 </div>
 </div>
 
