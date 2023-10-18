@@ -4,21 +4,16 @@ This J2EE project is designed for user registration, login, profile management, 
 
 # User Registration and Profile Management
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <img src="user-profile/images/register.png" alt="Registration Form" width="300">
-    </div>
-    <div style="flex: 2; padding: 10px;">
-        <h2>Registration Form</h2>       
-        This project includes a user registration form to allow new users to create accounts. The registration form typically collects the following information:
-        
-        - First Name
-        - Last Name
-        - Email address
-        - Password
-        - Phone Number
-        - Date of Birth        
-        Users can fill in the required information and submit the form to create an account. 
-        The registration form includes validation checks to ensure data integrity and security.
-    </div>
-</div>
+| ![Registration Form](user-profile/images/register.png) | Registration Form |
+| --- | --- |
+| This project includes a user registration form to allow new users to create accounts. The registration form typically collects the following information:
+
+  - First Name
+  - Last Name
+  - Email address
+  - Password
+  - Phone Number
+  - Date of Birth
+
+  Users can fill in the required information and submit the form to create an account. The registration form includes validation checks to ensure data integrity and security.
+|
