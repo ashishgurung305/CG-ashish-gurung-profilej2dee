@@ -23,4 +23,26 @@ Users can fill in the required information and submit the form to create an acco
 The registration form includes validation checks to ensure data integrity and security.
 </div>
 </div>
+# User Registration and Profile Management
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; padding: 20px;">
+        <img src="user-profile/images/login.png" alt="Login Form" width="300">
+    </div>
+    <div style="flex: 2; padding: 20px;">
+        <h2>Login Form</h2>
+
+        This project includes a user login form for registered users to access their accounts. The login form requires the following information:
+
+        - Email address
+        - Password
+
+Users can log in by providing their registered email and password. If the user does not have an account, they can create one by clicking the "Create an Account" link.
+
+### Create an Account
+
+If you don't have an account yet, you can click on the "create an account" link to access the features of this application.
+
+    </div>
+</div>
 
