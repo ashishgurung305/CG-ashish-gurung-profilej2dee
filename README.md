@@ -24,7 +24,7 @@ The registration form includes validation checks to ensure data integrity and se
 </div>
 </div>
 
-# User Registration and Profile Management
+# User Login
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding: 20px;">
