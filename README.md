@@ -6,7 +6,7 @@ This J2EE project is designed for user registration, login, profile management, 
 
 <div style="display: flex;">
     <div style="flex: 1; padding: 20px;">
-        <img src="user-profile/images/register.png" alt="Registration Form" width="600">
+        <img src="user-profile/images/register.png" alt="Registration Form" width="800">
     </div>
     <div style="flex: 2; padding: 20px;">
         <h2>Registration Form</h2>       
@@ -28,7 +28,7 @@ The registration form includes validation checks to ensure data integrity and se
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding: 20px;">
-        <img src="user-profile/images/login.png" alt="Login Form" width="600">
+        <img src="user-profile/images/login.png" alt="Login Form" width="800">
     </div>
     <div style="flex: 2; padding: 20px;">
         <h2>Login Form</h2>
@@ -51,7 +51,7 @@ If you don't have an account yet, you can click on the "create an account" link 
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding: 20px;">
-        <img src="user-profile/images/update-profile.png" alt="Update Profile" width="600">
+        <img src="user-profile/images/update-profile.png" alt="Update Profile" width="800">
     </div>
     <div style="flex: 2; padding: 20px;">
         <h2>Update Profile</h2>
@@ -70,11 +70,11 @@ To update your profile, log in to your account and navigate to the profile manag
 </div>
 </div>
 
-# User's Password Change
+# User Change Password
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding: 20px;">
-        <img src="user-profile/images/change-password.png" alt="Change Password" width="600">
+        <img src="user-profile/images/change-password.png" alt="Change Password" width="800">
     </div>
     <div style="flex: 2; padding: 20px;">
         <h2>Change Password</h2>
